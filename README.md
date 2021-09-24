@@ -23,4 +23,4 @@ Dessa forma o sistema estará pronto para ser avaliado e espero que o sistema es
 
 
 ##### Diagrama do banco de dados
-![Screenshot](screenshot.png)
+![Screenshot](diagrama.jpeg)
